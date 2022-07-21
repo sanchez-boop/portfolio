@@ -1,0 +1,30 @@
+.project-page{
+
+    p {
+        margin-top: 10px;
+    }
+    p.shifted {
+        margin-left: 20px;
+    }
+    pre {
+        margin-top: 15px;
+    }
+    ul{
+        margin-top: 10px;
+    }
+
+    .computer{
+        display: block;
+        padding: 0px 0;
+
+        img{
+            display: block;
+            margin-top: 12%;
+            margin-right: 10%;
+            height: 350px;
+            width: auto;
+            position:absolute; 
+            right: 0px; 
+        }
+    }
+}
